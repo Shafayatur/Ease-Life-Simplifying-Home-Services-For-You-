@@ -1,2 +1,2 @@
-# Easee-Simplifying-Home-Services-For-You-
+# Easee-Simplify
 CSE470 project
